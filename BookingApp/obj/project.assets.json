@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\campbf2\\.nuget\\packages\\": {},
+    "C:\\Users\\hartlr3\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\BookingApp\\BookingApp\\BookingApp\\BookingApp.csproj",
+      "projectUniqueName": "H:\\Studio 2\\BookingApp\\BookingApp\\BookingApp.csproj",
       "projectName": "BookingApp",
-      "projectPath": "H:\\BookingApp\\BookingApp\\BookingApp\\BookingApp.csproj",
-      "packagesPath": "C:\\Users\\campbf2\\.nuget\\packages\\",
-      "outputPath": "H:\\BookingApp\\BookingApp\\BookingApp\\obj\\",
+      "projectPath": "H:\\Studio 2\\BookingApp\\BookingApp\\BookingApp.csproj",
+      "packagesPath": "C:\\Users\\hartlr3\\.nuget\\packages\\",
+      "outputPath": "H:\\Studio 2\\BookingApp\\BookingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\campbf2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hartlr3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
