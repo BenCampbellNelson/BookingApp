@@ -11,7 +11,12 @@ namespace BookingApp
         private string name;
         private string address;
         private int number;
-        public string email;
+        private string email;
+
+        public string Name { get => name; set => name = value; }
+        public string Address { get => address; set => address = value; }
+        public int Number { get => number; set => number = value; }
+        public string Email { get => email; set => email = value; }
 
         public Customers(string _name, string _address, int _number, string _email)
         {
