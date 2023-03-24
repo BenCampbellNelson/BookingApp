@@ -21,10 +21,10 @@ namespace BookingApp
 
         public Customers(string _name, string _address, string _email, int _number)
         {
-            name = _name;
-            address = _address;
-            email = _email;
-            number = _number;
+            this.name = _name;
+            this.address = _address;
+            this.email = _email;
+            this.number = _number;
         }
 
      
